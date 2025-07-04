@@ -64,7 +64,7 @@ Ensure the following packages are installed before running any metric scripts:
 
 
 
-## 🛠 Installation
+## Installation
 
 1. Clone the repository  
    ```bash
