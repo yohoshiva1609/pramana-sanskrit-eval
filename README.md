@@ -2,14 +2,14 @@ This repository provides Python implementations of over 30 evaluation metrics ta
 
 Traditional evaluation metrics such as BLEU, ROUGE, or METEOR were primarily developed for high-resource languages like English. However, **morphologically rich and syntactically flexible languages** such as Sanskrit pose unique challenges, where surface-level similarity is not sufficient to judge translation or generation quality. This repository addresses that gap by offering:
 
-- ✅ Classical metrics adapted to Sanskrit word order
-- ✅ Neural and embedding-based semantic evaluation metrics
-- ✅ Structural and syntactic metrics for segmentation and parsing
-- ✅ Model-based metrics like COMET, BLEURT, and XNLI-style entailment scoring
+- Classical metrics adapted to Sanskrit word order
+- Neural and embedding-based semantic evaluation metrics
+- Structural and syntactic metrics for segmentation and parsing
+- Model-based metrics like COMET, BLEURT, and XNLI-style entailment scoring
 
 ---
 
-## 📊 Included Metrics
+## Included Metrics
 
 **Surface-level metrics**  
 - BLEU
